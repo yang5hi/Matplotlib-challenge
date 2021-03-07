@@ -17,7 +17,7 @@ two .csv files were used to get the full dataframe for the analysis. The data is
 
 * The final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin were calculated and output into a DataFrame. The quartiles and IQR were calculated. **One datapoint** was quantitatively determined to be the outliers across all four treatment regimens.
 
-* Matplotlib was used to generate a box and whisker plot of the final tumor volume for all four treatment regimens, and the outliers were highlighted with **green diamond** in the plot.
+* Matplotlib was used to generate a box and whisker plot of the final tumor volume for all four treatment regimens, and the outliers were highlighted with **red diamond** in the plot.
 
 * A sample mouse that was treated with Capomulin was selected, and a line plot of tumor volume vs. time point was generated for that mouse.
 
