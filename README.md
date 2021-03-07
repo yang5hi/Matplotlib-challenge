@@ -2,7 +2,7 @@
 
 ## Background
 
-This project is to analyze the data from a burgeoning pharmaceutical company. The company is developing potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. The study was done on 249 mice identified with SCC tumors. A variety of drug regimen was studied over the course of 45 days, and the tumor volume in $ mm^3 $ was measured every 5 days. The drug of interest is Capomulin, among others. Python-Matplotlib is used to generate all of the tables and figures needed for the technical report of the study. The summary of the study results is shown at the end.
+This project is to analyze the data from a burgeoning pharmaceutical company. The company is developing potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. The study was done on 249 mice identified with SCC tumors. A variety of drug regimen was studied over the course of 45 days, and the tumor volume in cubic mm was measured every 5 days. The drug of interest is Capomulin, among others. Python-Matplotlib is used to generate all of the tables and figures needed for the technical report of the study. The summary of the study results is shown at the end.
 
 ## DataFrame Establishment
 two .csv files were used to get the full dataframe for the analysis. The data is cleaned by removing any data associated with the mouse ID that has duplicate time points.
